@@ -6,7 +6,9 @@
       "district": "黃埔",
       "address": "紅磡黃埔天地百寶坊(第3期)地下G32號舖",
       "image": "https://static6.orstatic.com/userphoto2/photo/17/Y6L/06R2XLD9480B43DB7FB21Bpx.jpg",
-      "Popularity": 100
+      "Popularity": 100,
+      "lat":22.310927391349065, 
+      "lng":114.18648996013927
     },
     {
       "name": "祥榮餐廳 Cheung Wing Restaurant",
@@ -14,7 +16,9 @@
       "district": "黃埔",
       "address": "紅磡黃埔天地奇妙坊(第1期)地下G7A, 7B 及7D號舖",
       "image": "https://static6.orstatic.com/userphoto2/photo/23/1NZ7/0BUIDT40E74D19D8349D60px.jpg",
-      "Popularity": 50
+      "Popularity": 50,
+      "lat":22.30527292746428,
+      "lng": 114.1877487531837
     },
     {
       "name": "SUKIYA すき家",
@@ -22,7 +26,9 @@
       "district": "黃埔",
       "address": "紅磡黃埔天地時尚坊(第2期)地下G6B號舖",
       "image": "https://static5.orstatic.com/userphoto2/photo/1C/11Y8/07HVDKC424C8AE44DD4FD4px.jpg",
-      "Popularity": 70
+      "Popularity": 70,
+      "lat":,22.30490519249742,
+      "lng":114.19001500872805
     },
     {
       "name": "薩莉亞意式餐廳 (黃埔天地百寶坊) Saizeriya Italian Restaurant",
@@ -30,7 +36,9 @@
       "district": "黃埔",
       "address": "紅磡黃埔天地百寶坊(第3期)地下G21-23號舖",
       "image": "https://static6.orstatic.com/userphoto/photo/8/6R7/01C1HX8912B1A92D42A1B6px.jpg",
-      "Popularity": 36
+      "Popularity": 36,
+      "lat":22.305138542125242, 
+      "lng":114.18709870189247
     },
     {
       "name": "快樂蜂 (黃埔天地) Jollibee (The Whampoa)",
@@ -38,7 +46,9 @@
       "district": "黃埔",
       "address": "紅磡黃埔天地百寶坊(第3期)地下G1B號舖",
       "image": "https://static8.orstatic.com/userphoto2/photo/1B/11VY/07HFCR9511D72B54EF002Cpx.jpg",
-      "Popularity": 69
+      "Popularity": 69,
+      "lat":22.305138542125242, 
+      "lng":114.18709870189247
     }
   ],
   "中西區": [
@@ -48,7 +58,9 @@
       "district": "中西區",
       "address": "中環結志街2號",
       "image": "https://cfcdn2.azsg.opensnap.com/azsg/snapphoto/photo/L8/GRZB/3BAZ4151ECF19EB75F6A7Dlv.jpg",
-      "Popularity": 69
+      "Popularity": 69,
+      "lat":22.283384199672472,
+      "lng": 114.15364080386162
     },
     {
       "name": "上環熟食中心",
@@ -56,7 +68,9 @@
       "district": "上環",
       "address": "上環皇后大道中345號上環市政大廈",
       "image": "https://static6.orstatic.com/userphoto/photo/6/4VJ/00YOA98208D7749F0DC786px.jpg",
-      "Popularity": 70
+      "Popularity": 70,
+      "lat":22.28687867239957,
+      "lng": 114.14955445950686
     },
     {
       "name": "瘋狂小面",
@@ -64,7 +78,9 @@
       "district": "中西區",
       "address": "中環士丹利街66-72號佳德商業大廈1樓",
       "image": "https://static7.orstatic.com/userphoto/photo/K/GKX/039WW66B31C599C25E76B3px.jpg",
-      "Popularity": 31
+      "Popularity": 31,
+      "lat":22.28457550700586, 
+      "lng":114.15431116522873
     },
     {
       "name": "Bistro Breton by La Creperie",
@@ -72,7 +88,9 @@
       "district": "中西區",
       "address": "西環西營盤德輔道西321號瑧璈地下3號舖",
       "image": "https://static6.orstatic.com/userphoto2/photo/1S/1F0X/0A2UO548C565806EB72F11px.jpg",
-      "Popularity": 33
+      "Popularity": 33,
+      "lat":22.28940033576984,
+      "lng": 114.139217891236
     },
     {
       "name": "川之源",
@@ -80,7 +98,9 @@
       "district": "上環",
       "address": "西環西營盤正街62號地舖",
       "image": "https://static7.orstatic.com/userphoto2/photo/1F/152J/08421I112363348FA16BEFpx.jpg",
-      "Popularity": 54
+      "Popularity": 54,
+      "lat":22.28647608512263,
+      "lng":114.14161296738556
     }
   ],
   "東區": [
